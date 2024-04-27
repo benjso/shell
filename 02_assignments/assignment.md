@@ -34,7 +34,12 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 
 **What is the secret password?**
 ```
-Your answer here...
+Paper Rings
+10
+Meets #Note: Count the whole string in the file
+and   #Note: Count the whole string in the file
+The   #Note: Count the whole string in the file
+the   #Note: Count the whole string in the file and assume & as a word as well
 
 
 
